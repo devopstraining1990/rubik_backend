@@ -79,9 +79,9 @@
 		</dependency>
 	</dependencies>
 	 <scm>
-        <connection>scm:https://github.com/lakshmi94u/rubik_backend.git</connection>
-    <developerConnection>scm:git:https://lakshmi94u:devops0523@github.com/lakshmi94u/rubik_backend.git</developerConnection>
-    <url>https://github.com/lakshmi94u/rubik_backend.git</url>
+        <connection>scm:https://github.com/devopstraining1990/rubik_backend.git</connection>
+    <developerConnection>scm:git:https://devopstraining1990:devops0523@github.com/devopstraining1990/rubik_backend.git</developerConnection>
+    <url>https://github.com/devopstraining1990/rubik_backend.git</url>
     <tag>HEAD</tag>
   </scm>
 <distributionManagement>
